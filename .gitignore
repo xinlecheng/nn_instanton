@@ -1,5 +1,6 @@
 # Ignore restart files
 *.pkl
+*.pth
 
 # Ignore results
 results/
